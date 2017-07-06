@@ -1,4 +1,4 @@
-## My solution for this project can be found [here](https://github.com/ssrobinson/CarND-Advanced-Lane-Lines-Project_4/blob/master/Project 4 Code.ipynb)
+## My solution for this project can be found [here](https://github.com/ssrobinson/CarND-Advanced-Lane-Lines-Project_4/blob/master/advanced_lane_lines.ipynb)
 *The remainder of this document originated from the Udacity repo which can be found [here](https://github.com/udacity/CarND-Advanced-Lane-Lines)*
 
 ## Advanced Lane Finding
